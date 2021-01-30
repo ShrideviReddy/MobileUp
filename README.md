@@ -3,7 +3,7 @@ This project focuses on using raw data and solving niche problem of price sugges
 
 # CRISP-DM Process:
 
-<img src="https://github.com/ShrideviReddy/MobileUp/blob/main/img/CRISP_DM.png" width="400" height="200">
+<img src="https://github.com/ShrideviReddy/MobileUp/blob/main/img/CRISP_DM.png" width="500" height="500">
 
 # Business understanding:
 ![Pricediff](img/Pricediff.PNG)
