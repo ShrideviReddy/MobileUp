@@ -2,7 +2,8 @@
 This project focuses on using raw data and solving niche problem of price suggestion for used iPhone mobiles. For this project we have followed CRISP-DM process.
 
 # CRISP-DM Process:
-![CRISP-DM](img/CRISP_DM.png)
+
+<img src="https://github.com/ShrideviReddy/MobileUp/blob/main/img/CRISP_DM.png" width="100" height="100">
 
 # Business understanding:
 ![Pricediff](img/Pricediff.PNG)
