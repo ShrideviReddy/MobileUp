@@ -5,6 +5,20 @@ This project focuses on using raw data and solving niche problem of price sugges
 
 <img src="https://github.com/ShrideviReddy/MobileUp/blob/main/img/CRISP_DM.png" width="500" height="500">
 
+CRISP-DM is a comprehensive data mining methodology and process model that provides  a complete blueprint for conducting a data mining project. CRISP-DM breaks down the life cycle of a data mining project into six phases.
+
+* Business Understanding: Understanding project objectives and requirements; Data mining problem definition
+
+* Data Understanding: Initial data collection and familiarization; Identify data quality issues.
+
+* Data Preparation: Record and attribute selection; Data cleansing.
+
+* Modeling: Run the data mining tools.
+
+* Evaluation: Determine if results meet business objectives; Identify business issues that should have been addressed earlier.
+
+* Deployment: Put the resulting models into practice; Set up for continuous mining of the data.
+
 # Business understanding:
 ![Pricediff](img/Pricediff.PNG)
 
