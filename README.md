@@ -49,6 +49,13 @@ For feature engineering :
 # Modelling:
 ![Modelling](img/Modelling.PNG)
 
+# Future Work:
+* Build flask application and deploy model on server (Heroku, or AWS EC2 instance), so that end users can use it.
+
+# If I had more time:
+* Collect data from other websites.
+* In this project, I mostly scrapped data for iPhone 11, iPhone 12, and iPhone XR. In future , will extend to other iPhone model and other company product like Samsung , Motorola, etc.
+
 
 
 
