@@ -24,8 +24,7 @@ CRISP-DM is a comprehensive data mining methodology and process model that provi
 
 We want to build an algorithm that automatically suggests the right product prices from the user-inputted listing title of their products and help seller to make his/her
 product stand-out. 
-* The goal is to solve the problem of suggesting the appropriate price of products to online sellers.
-* No latency constraints, because we would like to suggest a highly accurate price to the seller, even if it takes a reasonable amount of time.
+* The goal is to explore relation between listing title and price and suggest important keywords to user. 
 
 # Our Solution:
 * Creating app which gives iPhone sellers estimate of Price based on listing title.
